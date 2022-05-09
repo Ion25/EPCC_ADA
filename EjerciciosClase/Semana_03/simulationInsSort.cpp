@@ -1,5 +1,3 @@
-/*Implementación del algoritmo Insertion Sort.
-Apaza Condori, Jhon Anthony*/
 #include <iostream>
 using namespace std;
 
